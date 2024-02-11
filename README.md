@@ -18,12 +18,12 @@ Ensure your demonstration is original and not a copy of default demos.
 # Assignment Deliverables
 
 
-#### Teachable Machine For Image - https://teachablemachine.withgoogle.com/models/RZ_gJrbzS/
+#### Teachable Machine For Image - [Access My Image Model from Here](https://teachablemachine.withgoogle.com/models/RZ_gJrbzS/)👈
 - Image Dataset: https://www.kaggle.com/datasets/karimabdulnabi/images-of-human-skulls-horses-and-lions
 
-#### Teachable Machine For Pose - https://teachablemachine.withgoogle.com/models/bVHp3AgAR/
+#### Teachable Machine For Pose - [Access My Pose Model from Here](https://teachablemachine.withgoogle.com/models/bVHp3AgAR/)👈
 - Pose Dataset: https://www.kaggle.com/datasets/rawatjitesh/body-pose-recognition
 
-#### Teachable Machine For Audio - https://teachablemachine.withgoogle.com/models/pdHT089Da/
+#### Teachable Machine For Audio - [Access My Audio Model from Here](https://teachablemachine.withgoogle.com/models/pdHT089Da/)👈
 - Audio - Self Recorded
 
